@@ -1,9 +1,5 @@
 # 🛰️ LandSecureX — AI-Driven Land Encroachment Detection System
 
-> An AI-powered Web GIS platform for detecting, analyzing, and monitoring unauthorized land encroachments using satellite imagery, computer vision, geospatial databases, and automated forensic reporting.
-
----
-
 ## 📌 Overview
 
 **LandSecureX** is a full-stack AI-driven government land monitoring platform designed to identify potential unauthorized construction and land encroachment using **satellite imagery and geospatial analysis**.
